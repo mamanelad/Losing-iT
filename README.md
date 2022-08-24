@@ -19,4 +19,4 @@ do you  understand what part of the world and what's not?
 
  Game Jam class, Bezalel 2022
 
-
+-You are welcome to download the game from the his Itch page: https://aviad-cohen.itch.io/losing-it
